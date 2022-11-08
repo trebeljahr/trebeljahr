@@ -16,7 +16,7 @@ Currently I am doing monthly projects - the idea is to spend one month, pursuing
 
 I am always learning new things. 
 
-Currently it is working through the [WebGl fundamentals website](https://webglfundamentals.org/), and watching [Steve Bruntons lectures on PDE's and Vector Calculus](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S). 
+Currently it is reading [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/index.html) and watching [Steve Bruntons lectures on PDE's and Vector Calculus](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S). 
 
 ## ✨ Something I am proud of
 
