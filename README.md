@@ -4,13 +4,11 @@ I am Rico, a very curious human. There are many, many things I enjoy. Among them
 
 ## 👨‍💻 What I do
 
-You can find my personal website over at [trebeljahr.com](trebeljahr.com). It also has a [/now](trebeljahr.com) section. 
+You can find my personal website over at [trebeljahr.com](https://trebeljahr.com). It also has a [/now](https://trebeljahr.com/now) section. 
 
 Currently I am doing monthly projects - the idea is to spend one month, pursuing a single idea and try to make it real (and push myself to see how far I can get, within a month).
 
-**September 2022**: [fractal.garden](fractal.garden)
-
-**October 2022 (this month)**: Build a Deep Dive Website on Collision Detection Algorithms
+You can see the progress over at [my 1-month projects site.](https://trebeljahr.com/1-month-projects)
 
 ## 📖 What I learn
 
@@ -20,5 +18,5 @@ Currently it is reading [The Feynman Lectures on Physics](https://www.feynmanlec
 
 ## ✨ Something I am proud of
 
-In the past I've compiled a list of things I love from the internet. You can find it over here: [trebeljahr.com/needlestack](trebeljahr.com/needlestack). It took a lot of work, but I think, it contains a lot of awesomeness. 
+In the past I've compiled a list of things I love from the internet. You can find it over here: [trebeljahr.com/needlestack](https://trebeljahr.com/needlestack). It took a lot of work, but I think, it contains a lot of awesomeness. 
 
