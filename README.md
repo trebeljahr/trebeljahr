@@ -14,7 +14,7 @@ You can see the progress over at [my 1-month projects site.](https://trebeljahr.
 
 I am always learning new things. 
 
-Currently it is reading [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/index.html) and watching [Steve Bruntons lectures on PDE's and Vector Calculus](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S). 
+Currently I am leaning more into 3D graphics in the browser, things like WebGL and Three.js as well as compilers.
 
 ## ✨ Something I am proud of
 
